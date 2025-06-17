@@ -1,0 +1,171 @@
+============================================================
+🔄 CONSENSUS ROUND #4
+============================================================
+📡 Transaction propagated by 9 nodes:
+   node_1 → node_4: 91.45 tokens
+   📈 node_5: FlowScore +1 → 21.0
+   📈 node_10: FlowScore +1 → 36.0
+   📈 node_19: FlowScore +1 → 28.0
+   📈 node_0: FlowScore +1 → 22.0
+   📈 node_12: FlowScore +1 → 28.0
+   📈 node_20: FlowScore +1 → 28.0
+   📈 node_17: FlowScore +1 → 27.0
+   📈 node_7: FlowScore +1 → 23.0
+   📈 node_13: FlowScore +1 → 31.0
+📡 Transaction propagated by 8 nodes:
+   node_20 → node_23: 10.27 tokens
+   📈 node_19: FlowScore +1 → 29.0
+   📈 node_2: FlowScore +1 → 29.0
+   📈 node_10: FlowScore +1 → 37.0
+   📈 node_13: FlowScore +1 → 32.0
+   📈 node_1: FlowScore +1 → 26.0
+   📈 node_5: FlowScore +1 → 22.0
+   📈 node_6: FlowScore +1 → 27.0
+   📈 node_17: FlowScore +1 → 28.0
+📡 Transaction propagated by 10 nodes:
+   node_14 → node_1: 19.98 tokens
+   📈 node_24: FlowScore +1 → 26.0
+   📈 node_3: FlowScore +1 → 32.0
+   📈 node_11: FlowScore +1 → 23.0
+   📈 node_18: FlowScore +1 → 29.0
+   📈 node_5: FlowScore +1 → 23.0
+   📈 node_7: FlowScore +1 → 24.0
+   📈 node_13: FlowScore +1 → 33.0
+   📈 node_19: FlowScore +1 → 30.0
+   📈 node_23: FlowScore +1 → 28.0
+   📈 node_14: FlowScore +1 → 26.0
+📡 Transaction propagated by 5 nodes:
+   node_3 → node_21: 55.93 tokens
+   📈 node_19: FlowScore +1 → 31.0
+   📈 node_24: FlowScore +1 → 27.0
+   📈 node_0: FlowScore +1 → 23.0
+   📈 node_8: FlowScore +1 → 25.0
+   📈 node_1: FlowScore +1 → 27.0
+📡 Transaction propagated by 6 nodes:
+   node_21 → node_8: 6.56 tokens
+   📈 node_3: FlowScore +1 → 33.0
+   📈 node_24: FlowScore +1 → 28.0
+   📈 node_13: FlowScore +1 → 34.0
+   📈 node_17: FlowScore +1 → 29.0
+   📈 node_7: FlowScore +1 → 25.0
+   📈 node_5: FlowScore +1 → 24.0
+📡 Transaction propagated by 7 nodes:
+   node_11 → node_16: 51.62 tokens
+   📈 node_9: FlowScore +1 → 28.0
+   📈 node_24: FlowScore +1 → 29.0
+   📈 node_23: FlowScore +1 → 29.0
+   📈 node_11: FlowScore +1 → 24.0
+   📈 node_15: FlowScore +1 → 23.0
+   📈 node_10: FlowScore +1 → 38.0
+   📈 node_20: FlowScore +1 → 29.0
+📡 Transaction propagated by 9 nodes:
+   node_22 → node_9: 75.29 tokens
+   📈 node_13: FlowScore +1 → 35.0
+   📈 node_7: FlowScore +1 → 26.0
+   📈 node_5: FlowScore +1 → 25.0
+   📈 node_6: FlowScore +1 → 28.0
+   📈 node_9: FlowScore +1 → 29.0
+   📈 node_19: FlowScore +1 → 32.0
+   📈 node_3: FlowScore +1 → 34.0
+   📈 node_4: FlowScore +1 → 34.0
+   📈 node_14: FlowScore +1 → 27.0
+📡 Transaction propagated by 6 nodes:
+   node_1 → node_18: 40.05 tokens
+   📈 node_14: FlowScore +1 → 28.0
+   📈 node_22: FlowScore +1 → 27.0
+   📈 node_23: FlowScore +1 → 30.0
+   📈 node_7: FlowScore +1 → 27.0
+   📈 node_19: FlowScore +1 → 33.0
+   📈 node_4: FlowScore +1 → 35.0
+📡 Transaction propagated by 5 nodes:
+   node_11 → node_16: 12.78 tokens
+   📈 node_17: FlowScore +1 → 30.0
+   📈 node_12: FlowScore +1 → 29.0
+   📈 node_23: FlowScore +1 → 31.0
+   📈 node_6: FlowScore +1 → 29.0
+   📈 node_19: FlowScore +1 → 34.0
+📡 Transaction propagated by 10 nodes:
+   node_2 → node_1: 65.53 tokens
+   📈 node_5: FlowScore +1 → 26.0
+   📈 node_22: FlowScore +1 → 28.0
+   📈 node_2: FlowScore +1 → 30.0
+   📈 node_24: FlowScore +1 → 30.0
+   📈 node_15: FlowScore +1 → 24.0
+   📈 node_20: FlowScore +1 → 30.0
+   📈 node_17: FlowScore +1 → 31.0
+   📈 node_3: FlowScore +1 → 35.0
+   📈 node_21: FlowScore +1 → 29.0
+   📈 node_23: FlowScore +1 → 32.0
+📡 Transaction propagated by 9 nodes:
+   node_6 → node_3: 76.47 tokens
+   📈 node_12: FlowScore +1 → 30.0
+   📈 node_16: FlowScore +1 → 23.0
+   📈 node_24: FlowScore +1 → 31.0
+   📈 node_14: FlowScore +1 → 29.0
+   📈 node_11: FlowScore +1 → 25.0
+   📈 node_22: FlowScore +1 → 29.0
+   📈 node_4: FlowScore +1 → 36.0
+   📈 node_20: FlowScore +1 → 31.0
+   📈 node_7: FlowScore +1 → 28.0
+📡 Transaction propagated by 7 nodes:
+   node_5 → node_16: 54.47 tokens
+   📈 node_0: FlowScore +1 → 24.0
+   📈 node_13: FlowScore +1 → 36.0
+   📈 node_18: FlowScore +1 → 30.0
+   📈 node_12: FlowScore +1 → 31.0
+   📈 node_20: FlowScore +1 → 32.0
+   📈 node_2: FlowScore +1 → 31.0
+   📈 node_6: FlowScore +1 → 30.0
+
+🎯 COMMITTEE SELECTION PROCESS
+----------------------------------------
+🎲 VRF Seed: 65689cd1221fd0c0...
+👥 Committee selected (5 members):
+   👑 LEADER node_7: ticket=05250870... score=28.0 weight=5.29
+   👤 Member node_16: ticket=12941b8e... score=23.0 weight=4.80
+   👤 Member node_9: ticket=28e77883... score=29.0 weight=5.38
+   👤 Member node_17: ticket=2a85a72d... score=31.0 weight=5.57
+   👤 Member node_3: ticket=42920878... score=35.0 weight=5.92
+
+🔨 BLOCK CREATION BY LEADER node_7
+----------------------------------------
+📦 Block #4 created
+   📝 Transactions: 20
+   🔗 Previous hash: 65689cd1221fd0c0...
+   🆔 Block hash: 13ae2fe27ab5968c...
+
+🗳️  COMMITTEE VOTING PROCESS
+----------------------------------------
+   ✅ node_7: APPROVE (sig: 641ba5b55d1a6384)
+   ✅ node_16: APPROVE (sig: b911015e987494fd)
+   ✅ node_9: APPROVE (sig: de22ca63d0a1a1c0)
+   ✅ node_17: APPROVE (sig: 6b29ef3e85e7bb42)
+   ✅ node_3: APPROVE (sig: 296c76168367656f)
+
+📊 Voting Results:
+   ✅ Approvals: 5/5
+   📋 Required: 4
+   🎯 Consensus: ✅ REACHED
+
+🎉 BLOCK #4 FINALIZED
+   ⏰ Finality time: 0.00s
+   🔐 Signatures: 5 BLS aggregated
+
+💰 REWARD DISTRIBUTION
+   👑 Leader node_7: 0.1200 tokens
+   👥 Each committee member: 0.0160 tokens
+
+📈 NETWORK STATUS
+----------------------------------------
+📊 Performance Metrics:
+   🚀 Current TPS: 4.78
+   📦 Blocks created: 4
+   📝 Total transactions: 101
+   ⏱️  Average finality: ~1.5s
+
+🏆 Top 5 Nodes by FlowScore:
+   1. node_10: 38.0 points (weight: 6.16)
+   2. node_13: 36.0 points (weight: 6.00)
+   3. node_4: 36.0 points (weight: 6.00)
+   4. node_3: 35.0 points (weight: 5.92)
+   5. node_19: 34.0 points (weight: 5.83)
